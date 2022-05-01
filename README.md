@@ -14,5 +14,19 @@ WADE OSS 커밋/버전 규칙
 `Chore : 빌드 업무 수정, 패키지 매니저 수정(ex .gitignore 수정 같은 경우)`<br>
 
 ### 버전 규칙
-
 https://semver.org/lang/ko/ - 유의적 버전 `2.0.0`에 따라 진행됨
+
+
+### 라이선스
+모든 프로젝트는 오픈소스로 MIT라이선스를 사용한다.
+
+**코드에 라이선스 삽입법**
+```js
+/*
+ * <프로젝트 이름, 버전>
+ *
+ * (c) 2022 WADE Open Source Software. and its affiliates.
+ * Released under the MIT License.
+ * <해당 프로젝트의 라이선스 경로>
+ */
+```
