@@ -1,5 +1,4 @@
-# rule
-WADE OSS 커밋/버전 규칙
+# WADE OSS 커밋/버전 규칙
 
 <br>
 <br>
@@ -36,13 +35,13 @@ WADE OSS 커밋/버전 규칙
 <br>
 
 ### 버전 규칙
-https://semver.org/lang/ko/ - 유의적 버전 `2.0.0`에 따라 진행됨
+https://semver.org/lang/ko/ - 유의적 버전 `2.0.0`에 따라 진행됩니다.
 
 <br>
 <br>
 
 ### 라이선스
-모든 프로젝트는 오픈소스로 MIT라이선스를 사용한다.
+모든 프로젝트는 오픈소스로 MIT라이선스를 사용합니다.
 
 <br>
 <br>
