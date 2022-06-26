@@ -1,4 +1,4 @@
-# 개쩌는 기능반 깃허브 규칙
+# WADE Open Source Software 커밋 규칙
 
 <br>
 <br>
