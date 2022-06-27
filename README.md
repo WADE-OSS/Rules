@@ -7,7 +7,10 @@
 <br>
 <br>
 
-## 👋 Welcom WADEOSS CMR!
+## 👋 Welcom to WADE OSS CMR(Commit Message Rules)!
+
+## What is CMR?
+CMR (Commit Message Rules) are rules needed to convey information more intuitively and implicitly in projects that are carried out in collaboration with each other.
 
 <br>
 <br>
